@@ -1,0 +1,15 @@
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/obj/Debug/net6.0/RoomCalculator.csproj.AssemblyReference.cache
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/obj/Debug/net6.0/RoomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/obj/Debug/net6.0/RoomCalculator.AssemblyInfoInputs.cache
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/obj/Debug/net6.0/RoomCalculator.AssemblyInfo.cs
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/obj/Debug/net6.0/RoomCalculator.csproj.CoreCompileInputs.cache
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/bin/Debug/net6.0/RoomCalculator
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/bin/Debug/net6.0/RoomCalculator.deps.json
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/bin/Debug/net6.0/RoomCalculator.runtimeconfig.json
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/bin/Debug/net6.0/RoomCalculator.dll
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/bin/Debug/net6.0/ref/RoomCalculator.dll
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/bin/Debug/net6.0/RoomCalculator.pdb
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/obj/Debug/net6.0/RoomCalculator.dll
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/obj/Debug/net6.0/ref/RoomCalculator.dll
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/obj/Debug/net6.0/RoomCalculator.pdb
+/Users/Alex/Projects/RoomCalculator/RoomCalculator/obj/Debug/net6.0/RoomCalculator.genruntimeconfig.cache

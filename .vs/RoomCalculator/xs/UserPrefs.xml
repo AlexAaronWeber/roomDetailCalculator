@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B30DEBCD-FE5C-4B1A-9C88-9B05781F97EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.RoomCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RoomCalculator/Program.cs">
+    <Files>
+      <File FileName="RoomCalculator/Program.cs" Line="28" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RoomCalculator" expanded="True">
+            <Node name="RoomCalculator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
